@@ -1,6 +1,7 @@
-Here is anew first bit of text
+Here is a new first bit of text
 You forgot to put in a middle line
 Here is another file
 Here is a new second line
 It is a wonderful file
 Beautiful file
+
